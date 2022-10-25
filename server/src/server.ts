@@ -1,13 +1,14 @@
 import express from "express";
-import cors from 'cors'
-import { PrismaClient } from '@prisma/client'
-import { convertHourToStringMinutes } from './utils/convert-hour-to-string-minutes'
+import cors from "cors";
+import { PrismaClient } from '@prisma/client';
+import { convertHourToStringMinutes } from './utils/convert-hour-to-string-minutes';
 import { convertMinutesToHourString } from "./utils/convert-minutes-to-hour-string";
 
 
 const app = express();
 app.use(express.json())
 app.use(cors())
+
 
 const prisma = new PrismaClient({
     log: ['query']
@@ -65,7 +66,7 @@ app.get("/games/:id/ads", async(req, res) => {
             createdAt: 'desc'
         }
     })
-    return res.json(ads.map(ad =>{
+    return res.json(ads.map((ad:any) =>{
         return {
             ...ad,
             weekdDays: ad.weekdDays.split(','),
