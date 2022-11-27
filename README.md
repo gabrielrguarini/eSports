@@ -18,9 +18,9 @@ Obs: Na versão web ainda não exite a tela de visualizar os anúncios essa tela
 ### Tela do jogo com os anúncios
 ![Tela do jogo com os anúncios](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-ads.png?raw=true)
 ### Tela de adicionar o discord
-![Tela de adicionar o discord](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-conected.png?raw=true)
+![Tela de adicionar o discord](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-conected.png?raw=true =x375)
 # Backend
-Backend desenvolvido em Node.js para fazer as rotas e servir como um bando de dados
+Backend desenvolvido em Node.js para fazer as rotas e servir como um banco de dados
 
 
 
