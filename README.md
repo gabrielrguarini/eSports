@@ -10,9 +10,17 @@ Onde você preenche seus dados e cria um anúncio para achar um parceiro de game
 ![Tela de criação de anúncios](https://github.com/gabrielrguarini/eSports/blob/main/desing/web-publicar%20an%C3%BAncioadsscreen.png?raw=true)
 Cria anúncio e salva no Banco de dados dentro do server.
 Obs: Na versão web ainda não exite a tela de visualizar os anúncios essa tela será adicionada posteriormente.
-
-
-
+# Aplicativo Mobile
+### Tela de carregamento do aplicativo
+![Tela de carregamento](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-splash.png?raw=true)
+### Tela inicial do aplicativo
+![Tela inicial do aplicativo](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-home.png?raw=true)
+### Tela do jogo com os anúncios
+![Tela do jogo com os anúncios](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-ads.png?raw=true)
+### Tela de adicionar o discord
+![Tela de adicionar o discord](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-conected.png?raw=true)
+# Backend
+Backend desenvolvido em Node.js para fazer as rotas e servir como um bando de dados
 
 
 
