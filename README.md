@@ -12,13 +12,13 @@ Cria anúncio e salva no Banco de dados dentro do server.
 Obs: Na versão web ainda não exite a tela de visualizar os anúncios essa tela será adicionada posteriormente.
 # Aplicativo Mobile
 ### Tela de carregamento do aplicativo
-![Tela de carregamento](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-splash.png?raw=true)
+<img src="https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-splash.png" alt="Tela de carregamento do aplicativo" width="375px"/>
 ### Tela inicial do aplicativo
-![Tela inicial do aplicativo](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-home.png?raw=true)
+<img src="https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-home.png" alt="Tela inicial do aplicativo" width="375px"/>
 ### Tela do jogo com os anúncios
-![Tela do jogo com os anúncios](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-ads.png?raw=true)
+<img src="https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-ads.png" alt="Tela do jogo com anúncios" width="375px"/>
 ### Tela de adicionar o discord
-![Tela de adicionar o discord](https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-conected.png?raw=true =x375)
+<img src="https://github.com/gabrielrguarini/eSports/blob/main/desing/mobile-conected.png" alt="Tela de adicionar o discord" width="375px"/>
 # Backend
 Backend desenvolvido em Node.js para fazer as rotas e servir como um banco de dados
 
